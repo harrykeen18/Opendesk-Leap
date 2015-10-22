@@ -1,7 +1,7 @@
 # licence
 This library hosts a growing series of CAD design files for desks and other furniture that house and integrate with the Leap Motion device. Each design is open source and can be downloaded and made with a CNC router. You can find hundreds of makers with CNC machines local to you via the Opendesk maker network - https://www.opendesk.cc/open/makers.
 
-This designs are offered to make for non-commercial use under the terms of the following license: Creative Commons - Attribution-NonCommercial.
+This designs are offered to make for non-commercial use under the terms of the following license: Creative Commons - Attribution-NonCommercial - https://creativecommons.org/licenses/by-nc/4.0/
 
 If you wish to use the design commercially please respect the right of the designer to be paid a royalty by working with a registered maker in the OpenDesk network - https://www.opendesk.cc/open/makers.
 
